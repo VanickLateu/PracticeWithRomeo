@@ -2,6 +2,7 @@
 Git Practice
 
 1. Create a new repo from Github and clone it into git using a GUI.
+1.1 create repo from git and clone it into github
 2. Create another  one and clone using the terminal.
 3. In your git repository, create a file, and push it into Github using a GUI first and then a command line.
 4. Create 2 new branch called “feature branch” and ——
