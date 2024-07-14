@@ -1,0 +1,23 @@
+
+Git Practice
+
+1. Create a new repo from Github and clone it into git using a GUI.
+2. Create another  one and clone using the terminal.
+3. In your git repository, create a file, and push it into Github using a GUI first and then a command line.
+4. Create 2 new branch called “feature branch” and ——
+5. Move to the new created branch and add some files. 
+6. Merge changes on new created branches to the main branch.
+7. Make sure every file you create is pushed to the remote repository.
+8. How do you check configuration settings? 
+9. How do you check logs?
+10. How to know the branch you are logged on?
+
+Azure DevOps
+
+1. Setup your Azure Devops organization and migrate your Github code to it.
+2. Pipeline creation ………………
+
+AWS
+
+1. Setup your AWS Account
+2. Create an EC2 instance in AWS and connect to it.
